@@ -1,0 +1,10 @@
+.gradle/
+build/
+.idea/
+.kotlin/
+local.properties
+*.iml
+.DS_Store
+.externalNativeBuild/
+.cxx/
+modul-01/prak_modul_1/.git-backup/
