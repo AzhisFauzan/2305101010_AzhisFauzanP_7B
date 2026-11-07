@@ -23,7 +23,7 @@ selama satu semester.
 | 02 | [Layout Android](./pertemuan-02/) | [modul-2](https://github.com/AzhisFauzan/2305101010_AzhisFauzanP_7B/tree/main/modul-02) |
 | 03 | [Gaya dan Tema Android](./pertemuan-03/) | [modul-3](https://github.com/AzhisFauzan/2305101010_AzhisFauzanP_7B/tree/main/modul-03) |
 | 03 | [Activity Android](./pertemuan-04/) | [modul-4](https://github.com/AzhisFauzan/2305101010_AzhisFauzanP_7B/tree/main/modul-04) |
-| 03 | [Intent Android](./pertemuan-05/) | [modul-3](https://github.com/AzhisFauzan/2305101010_AzhisFauzanP_7B/tree/main/modul-05) |
+| 03 | [Intent Android](./pertemuan-05/) | [modul-5](https://github.com/AzhisFauzan/2305101010_AzhisFauzanP_7B/tree/main/modul-05) |
 
 ## Cara Menjalankan Aplikasi
 
