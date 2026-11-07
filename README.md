@@ -21,7 +21,7 @@ selama satu semester.
 |---|---|---|
 | 01 | [Topik Praktikum 01](./pertemuan-01/) | [Folder](./pertemuan-01/) |
 | 02 | [Topik Praktikum 02](./pertemuan-02/) | [Folder](./pertemuan-02/) |
-| 03 | [Topik Praktikum 03](./pertemuan-03/) | [Folder](./pertemuan-03/) |
+| 03 | [Topik Praktikum 03](./Gaya-dan-Tema-Android/) | [Folder](https://github.com/AzhisFauzan/2305101010_AzhisFauzanP_7B/tree/main/modul-03) |
 
 ## Cara Menjalankan Aplikasi
 
