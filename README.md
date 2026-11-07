@@ -19,9 +19,11 @@ selama satu semester.
 
 | Pertemuan | Topik | Source Code dan Screenshot |
 |---|---|---|
-| 01 | [Topik Praktikum 01](./pertemuan-01/) | [Folder](./pertemuan-01/) |
-| 02 | [Topik Praktikum 02](./pertemuan-02/) | [Folder](./pertemuan-02/) |
-| 03 | [Gaya dan Tema Android](./pertemuan-02/) | [Folder](https://github.com/AzhisFauzan/2305101010_AzhisFauzanP_7B/tree/main/modul-03) |
+| 01 | [Arsitektur Android](./pertemuan-01/) | [modul-1](https://github.com/AzhisFauzan/2305101010_AzhisFauzanP_7B/tree/main/modul-01) |
+| 02 | [Layout Android](./pertemuan-02/) | [modul-2](https://github.com/AzhisFauzan/2305101010_AzhisFauzanP_7B/tree/main/modul-02) |
+| 03 | [Gaya dan Tema Android](./pertemuan-03/) | [modul-3](https://github.com/AzhisFauzan/2305101010_AzhisFauzanP_7B/tree/main/modul-03) |
+| 03 | [Activity Android](./pertemuan-04/) | [modul-4](https://github.com/AzhisFauzan/2305101010_AzhisFauzanP_7B/tree/main/modul-04) |
+| 03 | [Intent Android](./pertemuan-05/) | [modul-3](https://github.com/AzhisFauzan/2305101010_AzhisFauzanP_7B/tree/main/modul-05) |
 
 ## Cara Menjalankan Aplikasi
 
