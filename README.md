@@ -2,10 +2,10 @@
 
 ## Identitas Mahasiswa
 
-- Nama: AZHIS FAUZAN PRASETIYO
+- Nama: Azhis Fauuzan Prasetiyo
 - NIM: 2305101010
 - Kelas: 7B
-- Program Studi: TEKNIK INFORMATIKA
+- Program Studi: Teknik Informatika
 - Mata Kuliah: Mobile Programming
 - Tahun Akademik: 2026/2027
 
@@ -22,8 +22,13 @@ selama satu semester.
 | 01 | [Arsitektur Android](./pertemuan-01/) | [modul-1](https://github.com/AzhisFauzan/2305101010_AzhisFauzanP_7B/tree/main/modul-01) |
 | 02 | [Layout Android](./pertemuan-02/) | [modul-2](https://github.com/AzhisFauzan/2305101010_AzhisFauzanP_7B/tree/main/modul-02) |
 | 03 | [Gaya dan Tema Android](./pertemuan-03/) | [modul-3](https://github.com/AzhisFauzan/2305101010_AzhisFauzanP_7B/tree/main/modul-03) |
-| 03 | [Activity Android](./pertemuan-04/) | [modul-4](https://github.com/AzhisFauzan/2305101010_AzhisFauzanP_7B/tree/main/modul-04) |
-| 03 | [Intent Android](./pertemuan-05/) | [modul-5](https://github.com/AzhisFauzan/2305101010_AzhisFauzanP_7B/tree/main/modul-05) |
+| 04 | [Activity Android](./pertemuan-04/) | [modul-4](https://github.com/AzhisFauzan/2305101010_AzhisFauzanP_7B/tree/main/modul-04) |
+| 05 | [Intent Android](./pertemuan-05/) | [modul-5](https://github.com/AzhisFauzan/2305101010_AzhisFauzanP_7B/tree/main/modul-05) |
+| 06 | [Fragment Android](./pertemuan-05/) | [modul-6](https://github.com/AzhisFauzan/2305101010_AzhisFauzanP_7B/tree/main/modul-06) |
+| 07 | [Database Android](./pertemuan-05/) | [modul-7](https://github.com/AzhisFauzan/2305101010_AzhisFauzanP_7B/tree/main/modul-07) |
+| 08 | [Web service Android](./pertemuan-05/) | [modul-8](https://github.com/AzhisFauzan/2305101010_AzhisFauzanP_7B/tree/main/modul-08) |
+| 09 | [Publikasi Android](./pertemuan-05/) | [modul-9](https://github.com/AzhisFauzan/2305101010_AzhisFauzanP_7B/tree/main/modul-09) |
+| 10 | [Sensor Android](./pertemuan-05/) | [modul-10](https://github.com/AzhisFauzan/2305101010_AzhisFauzanP_7B/tree/main/modul-0) |
 
 ## Cara Menjalankan Aplikasi
 
