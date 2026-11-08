@@ -2,7 +2,7 @@
 
 ## Identitas Mahasiswa
 
-- Nama: Azhis Fauuzan Prasetiyo
+- Nama: Azhis Fauzan Prasetiyo
 - NIM: 2305101010
 - Kelas: 7B
 - Program Studi: Teknik Informatika
